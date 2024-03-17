@@ -3,5 +3,5 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@waldemircambiucci)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waldemircambiucci/)
 
-# Heuristics for hypergraphic partitioning
+# Classic Heuristics for hypergraphic partitioning
 Hypergrafic partitioning of quantum circuits for distributed quantum computing.
